@@ -84,7 +84,7 @@ let buttons = [
 let buttonMessage = {
 image: {url:ppgroup},
 caption: teks,
-footer: "® KoKo•Rey- X - Fxaa Official",
+footer: "® By Fahmi`Botz",
 buttons: buttons,
 headerType: 4,
 }
@@ -99,7 +99,7 @@ let buttons = [
 let buttonMessage = {
 image: {url:ppgroup},
 caption: teks,
-footer: "® KoKo•Rey- X - Fxaa Official",
+footer: "® By FahmiGanss",
 buttons: buttons,
 headerType: 4,
 }
