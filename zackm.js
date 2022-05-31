@@ -675,8 +675,8 @@ const fgclink = {
 "groupInviteMessage": {
 "groupJid": "120363043965529911@g.us",
 "inviteCode": "HDmXvmHpEkE9wRJy3IO6OZ",
-"groupName": "ZackMans Broadcast", 
-"caption": "ZackMans Broadcast", 
+"groupName": "Fahmi`Botz Broadcast", 
+"caption": "Fahmi`Botz Broadcast", 
 'jpegThumbnail': log0
 }
 }
@@ -690,11 +690,11 @@ participant: `0@s.whatsapp.net`, ...(from ?
 },
 message: { 
  "videoMessage": { 
- "title":"ZackMans Official",
+ "title":"Fahmi`Botz Official",
  "h": `Hmm`,
  'seconds': "30", 
  'gifPlayback': 'true', 
- 'caption': 'ZackMans Official',
+ 'caption': 'Fahmi`Botz Official',
  'jpegThumbnail': log0
 }
 }
@@ -767,7 +767,7 @@ let thnsto = getjson.content[0].content[0].content[0].content ? getjson.content[
 let cBandwidth = await checkBandwidth()
 let prefs = ` ▸ ${prefix}`
 const listmn = `*ROBOT WHATSAPP MULTI DEVICE*
-_Script By MyMans APIs - X - ZackMans Official_
+_Script By Fahmi`Botz-Md_
 
 ${cekbotinfo}
 
@@ -974,7 +974,7 @@ ${prefs}cowner <add/del>
 > / => / $ / <
 
 THANKS TO :
-adiwajshing, MhankBarBar, Nurutomo, MyMans APIs - X - ZackMans Official, ${thnsto}, Heroku, Replit, Railway, Termux, Rest APIs, Penyedia Module, Mastah Lainya
+adiwajshing, MhankBarBar, Nurutomo, MyMans APIs - X - ZackMans Official, ${thnsto}, Heroku, Replit, Railway, Termux, Rest APIs, Penyedia Module, Fahmi`Botz
 
 ${ucapanWaktu}
 ${jangwak}`
@@ -993,7 +993,7 @@ video:fs.readFileSync("./media/video/mans.mp4"),
 gifPlayback:true,
 jpegThumbnail:log0,
 caption: listmn,
-footer: '© MyMans APIs - X - ZackMans Official',
+footer: '© FahmiGanss',
 templateButtons: templateButtons
 }
 mans.sendMessage(m.chat, templateMessage)
@@ -2122,7 +2122,7 @@ rows: listMsgs
 
 const listMessage = {
 text: "ketuk button dibawah untuk melihat daftar list respon message, ketuk lagi untuk menjalankan fiturnya",
-footer: "© MyMans APIs - X - ZackMans Official",
+footer: "© Fahmi`Botz",
 title: "     「 List Respon Message 」",
 buttonText: "List Message",
 sections
@@ -2526,7 +2526,7 @@ rows: listSerch
 ]
 const listMessage = {
 text: teskd,
-footer: "© MyMans APIs - X - ZackMans Official",
+footer: "© Fahmi`Botz",
 title: "     「 Youtube Search Downloader 」",
 buttonText: "List Search",
 mentions: await mans.parseMention(teskd),
@@ -2636,12 +2636,12 @@ if (!m.isGroup) return m.reply(mess.group)
 let response = await mans.groupInviteCode(m.chat)
 mans.sendMessage(m.chat, {text:`Link Group ${groupMetadata.subject} : \nhttps://chat.whatsapp.com/${response}l`, "contextInfo": {
 mimetype: "image/jpeg",
-text: "ZackMans Official",
+text: "Fahmi`Botz",
 "forwardingScore": 1000000000,
 isForwarded: true,
 sendEphemeral: true,
 "externalAdReply": {
-"title": `ZackMans Official`,
+"title": `Fahmi`Botz`,
 "body": `Subscribe To Channel YouTube ZackMans Official`,
 "previewType": "PHOTO",
 "thumbnailUrl": thum,
@@ -2688,8 +2688,8 @@ let buttons = [
 let buttonMessage = {
 image: log0,
 jpegThumbnail: thum,
-caption: `*「 ZackMans Official 」*\n\nChange Info, Select Open Or Close`,
-footer: "© MyMans APIs - MyMainas",
+caption: `*「 Fahmi`Botz 」*\n\nChange Info, Select Open Or Close`,
+footer: "© Fahmi`Botz",
 buttons: buttons,
 headerType: 4
 }
@@ -2714,8 +2714,8 @@ let buttons = [
 let buttonMessage = {
 image: log0,
 jpegThumbnail: thum,
-caption: `*「 ZackMans Official 」*\n\nChange Group Setting, Select Open Or Close`,
-footer: "© MyMans APIs - MyMainas",
+caption: `*「 Fahmi`Botz 」*\n\nChange Group Setting, Select Open Or Close`,
+footer: "© Fahmi`Botz",
 buttons: buttons,
 headerType: 4
 }
